@@ -1,2 +1,2 @@
-# radex.jl
-Implementation of Radex (a one-dimensional non-LTE radiative transfer code) in the Julia programming language.
+# RADEX.jl
+Implementation of RADEX (a one-dimensional non-LTE radiative transfer code) in the Julia programming language.
